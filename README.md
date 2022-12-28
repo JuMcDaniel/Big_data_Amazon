@@ -1,5 +1,11 @@
 # Big Data
 
+## Technology Used
+
+The project used multiple different technologies.  We used Google Colab as the platform and manipulated the data with PySpark.  We set up a AWS database server and set up S3 buckets to hold the data for the Postgres SQL connection.
+
+## Analysis
+
 ### Overview:
 
   The purpose of this analysis is to determine if there is a difference in how people will rate objects based on if they are paid for the review or not paid for the review.  Overall this was an interesting data set with bringing the information from Amazon directly. 
